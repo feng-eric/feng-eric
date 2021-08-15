@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi! 😄
 - 🏫  University of Waterloo Software Engineering 2023
 - 👨‍💻  Project Lead on [Blueprint](https://uwblueprint.org/) for [social-diversity-for-children](https://github.com/uwblueprint/social-diversity-for-children), a non-profit organization
 - 😎  Passionate about tech for social good
