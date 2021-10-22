@@ -5,6 +5,8 @@
 - 🖥  Previously interned at Wish, Condos.ca, Veeva Systems, and PointClickCare
 - 👀  Feel free to reach me on my [LinkedIn](https://www.linkedin.com/in/ericrfeng/)
 
+![](https://komarev.com/ghpvc/?username=feng-eric)
+
 <!--
 **feng-eric/feng-eric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
