@@ -3,7 +3,6 @@
 - 👨‍💻  Project Lead on [Blueprint](https://uwblueprint.org/) for [social-diversity-for-children](https://github.com/uwblueprint/social-diversity-for-children), a non-profit organization
 - ⭐️  Passionate about tech for social good
 - 🖥  Previously interned at Wish, Condos.ca, Veeva Systems, and PointClickCare
-- 👀  Feel free to reach me on my [LinkedIn](https://www.linkedin.com/in/ericrfeng/)
 
 ![](https://komarev.com/ghpvc/?username=feng-eric)
 
